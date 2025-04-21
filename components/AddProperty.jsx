@@ -7,7 +7,7 @@ import {
 
   
   
-  export default function gridListWithCTA() {
+  export default function GridListWithCTA() {
     const [postData, setPostData] = useState({ title: '', description: '', price: '', rooms: '', baths: '', area: '', photos: '', coverPhoto: '', purpose: '', type: '', amenities: '', furnishingStatus: '', address: '', completionStatus: '',
                                                //  owner: '', phone: '', isWhatsappable: true, email: '' 
                                               });
